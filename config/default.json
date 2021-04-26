@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://user:pass123@cluster0.qomlj.mongodb.net/cardsDB?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
